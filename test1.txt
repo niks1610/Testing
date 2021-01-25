@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 
-how are you!
+
+=======
+Hi how are you?
+>>>>>>> Nikhil
